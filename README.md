@@ -1,1 +1,3 @@
-# Predict-future-sales
+- This notebook is a solution for the "Predict Future Sales" competition from Kaggle.com. 
+- The goal is to forecast the total amount of all products sold in every shop for the next month. 
+- The final model scored an RMSE of 0.99 on the unseen test set. 
